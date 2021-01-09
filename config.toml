@@ -1,8 +1,11 @@
-baseURL = "http://example.org/"
+baseURL = "http://amandasjostrom.github.io/knit-blog"
 languageCode = "en-us"
 title = "Stickerier"
 theme = "ananke"
 featured_image = "/images/pexels-photo-267074.jpeg"
+
+# since github pages only supports using root or /docs as source
+publishDir = "docs"
 
 [params]
   post_content_classes = "avenir bg-near-white"
