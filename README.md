@@ -2,6 +2,4 @@ To publish new changes you need to install Hugo, see [Hugo docs](https://gohugo.
 
 And also git. But i feel that can be assumed.
 
-Then execute ```bash
-./deploy.sh
-```
+Then execute `./deploy.sh` 
