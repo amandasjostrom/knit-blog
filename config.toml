@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Stickerier"
+theme = "ananke"
+featured_image = "/images/pexels-photo-267074.jpeg"
+
+[params]
+  post_content_classes = "avenir bg-near-white"
+  custom_css = ["css/custom.css"]

@@ -1,0 +1,4 @@
+.athelas {
+	/*hack to get avenir font instead of athelas e.g. for post title*/
+	font-family: 'avenir next', avenir, sans-serif;
+}

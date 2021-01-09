@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Stickerier</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Stickerier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Jan 2021 19:31:31 +0100</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A New Blog</title>
+      <link>http://example.org/posts/a-new-blog/</link>
+      <pubDate>Sat, 09 Jan 2021 19:31:31 +0100</pubDate>
+      
+      <guid>http://example.org/posts/a-new-blog/</guid>
+      <description>Tänkte att det vore kul att ha som ett litet fotoalbum över vad jag faktiskt stickat sedan jag tog upp denna hobby mer på riktigt. Bild, eventuella modifieringar av mönster och någon kommentar för framtida försök? Vi ser vad det blir!</description>
+    </item>
+    
+  </channel>
+</rss>
