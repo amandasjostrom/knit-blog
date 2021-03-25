@@ -70,4 +70,13 @@ Slutresultatet blev iaf såhär och användes oväntat mycket under vintern!
 Mycket nöjd med att det blev lite luft mellan mönstret och de vita sidorna!
 
 Mönster:
-https://pdfgen.jarbo.se/generate/create/92655/1/Julvanten%202020.pdf 
+
+[Hela mönstret](https://pdfgen.jarbo.se/generate/create/92655/1/Julvanten%202020.pdf)
+
+[Del 1](https://www.jarbo.se/sv/blogg/post/julvanten-2020-del-1)
+
+[Del 2](https://www.jarbo.se/sv/blogg/post/Julvanten-del-2-toppen)
+
+[Del 3](https://www.jarbo.se/sv/blogg/post/julvanten-del-2-duplicated)
+
+ 
