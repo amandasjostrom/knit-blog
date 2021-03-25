@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>http://amandasjostrom.github.io/knit-blog/posts/julvanten-2020/</loc>
+    <lastmod>2021-03-25T20:31:31+01:00</lastmod>
+  </url><url>
+    <loc>http://amandasjostrom.github.io/knit-blog/posts/</loc>
+    <lastmod>2021-03-25T20:31:31+01:00</lastmod>
+  </url><url>
+    <loc>http://amandasjostrom.github.io/knit-blog/</loc>
+    <lastmod>2021-03-25T20:31:31+01:00</lastmod>
+  </url><url>
     <loc>http://amandasjostrom.github.io/knit-blog/posts/a-new-blog/</loc>
     <lastmod>2021-01-09T19:31:31+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://amandasjostrom.github.io/knit-blog/posts/</loc>
-    <lastmod>2021-01-09T19:31:31+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://amandasjostrom.github.io/knit-blog/</loc>
-    <lastmod>2021-01-09T19:31:31+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://amandasjostrom.github.io/knit-blog/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://amandasjostrom.github.io/knit-blog/tags/</loc>
   </url>
-  
 </urlset>
