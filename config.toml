@@ -1,7 +1,7 @@
 baseURL = "http://amandasjostrom.github.io/knit-blog"
 languageCode = "en-us"
 title = "Stickerier"
-theme = "ananke"
+theme = ["hugo-video", "ananke"]
 featured_image = "/images/pexels-photo-267074.jpeg"
 
 # since github pages only supports using root or /docs as source
