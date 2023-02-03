@@ -42,8 +42,7 @@ Här blev det en stor paus i stickandet, beslut alltså. Varför sa ingen att st
 beslut? Mätte och funderade och väntade, repeterade.
 
 ![BILD 9617](IMG_9617.jpg)
-![BILD 9618](IMG_9618.jpg)
- 
+
 Så jag räknade hur många meter garn som var kvar och noterade "11 meter". Jag hade inte påbörjat 
 minskningar än och ett varv tog 1,5 meter (enbart det faktumet var ju en chock?). Mina smarta anteckningar:
 ```
@@ -73,7 +72,25 @@ genom att fästa lite till, det ska jag nog göra.
 
 Lärdomen är oavset: SE TILL ATT HA MARGINAL MED GARNMÄNGDEN!
 
-Slutresultatet var svårfångat på bild (delvis pga den ljusa färgen).
-![IMG_9841](IMG_9841.jpg)
+## Uppdatering 2023-02-03
+Publicerade inlägget igår och tänkte att nu (två år senare) är det dags att ta tag i den där mudden. 
 
-PS. Inte nöjd med färgen heller, men nu vet jag att jag inte passar i ljusgrått! DS.
+Eftersom garnet tog slut för snabbt så blev mössan kortare än enligt mönstret (tror jag?) och jag kompenserade genom
+att frångå instruktionerna för mudden. 
+
+Stickningens första 22 cm var aviga. Instruktionerna var att vika 10 cm in och fästa. Men jag valde att vika in kortare 
+och dessutom fästa med typ 16 små knytningar så att det blev en ojämn känsla. Det blev iaf 3 lager på typ 23-24 cm stickning 
+vilket gjorde av de aviga maskorna kunde sticka upp över mudden om mudden gled - ONICE!
+
+Så idag tog jag bort de ungefär 16 små stygnen och fäste istället jämnt enligt instruktionerna. Mössan blev mindre hög men finare!
+
+Nya fästningen (mudden är alltså utvikt här):
+![BILD 7291](IMG_7291.jpg)
+
+Här kan man ana de aviga maskorna:
+![BILD 9609](IMG_9609.jpg)
+
+Här ser den ut nu!
+![BILD 7279](IMG_7279.jpg)
+
+Nu kan vi alla betrakta detta mössprojekt som avslutat! 💂🏻‍
