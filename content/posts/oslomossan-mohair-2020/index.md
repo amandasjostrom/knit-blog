@@ -8,12 +8,12 @@ show_reading_time: true
 
 Denna historia börjar med att jag fått upp ögonen för PetiteKnits 
 [Kontrasttröja](https://www.ravelry.com/patterns/library/contrast-sweater), specifikt den grågröna kombon.
-Men innan jag skulle lägga hundratals (tusentals?) kronor på garn ställde jag den högst relevanta 
-frågan: gillar jag mohair? Och det visste jag inte, så kändes rimligt att ta redo på som första steg.
+Men innan jag skulle lägga hundratals (tusentals?) kronor på garn ställde jag mig den högst relevanta 
+frågan: gillar jag mohair? Och det visste jag inte, så det kändes rimligt att ta reda på som första steg.
 
 Tillvägagångssättet som jag valde för att ta reda på det blev att sticka 
 [Oslomössan](https://www.petiteknit.com/products/oslomossan-mohair-edition?variant=13081419382839).
-Tyckte mössan såg mycket fin och kändes spännande med mohair! 
+Tyckte mössan såg mycket fin ut och kändes spännande med mohair! 
 
 Valde att efterlikna den grå versionen och köpte ett nystan Filcolana Arwetta Classic Very Light Grey och 
 ett nystan Filcolana Tilia Natural White och körde sen igång!
@@ -27,14 +27,14 @@ Jag hade mätt mitt huvud med olika metoder och både själv och med hjälp och 
 Dam S skulle bli bra, lite marginal kanske till och med. Med huvudomfång dvs, inte i garnmängd då en
 ynka storlek upp skulle kräva ett extra nystan per garntyp.
 
-Det där med lösa maskor gjorde mössa mycket stor, så rev upp och la upp igen med mitt vanliga 
+Det där med lösa maskor gjorde mössan mycket stor, så rev upp och la upp igen med mitt vanliga 
 handlag. 
 
 ![BILD 9608](IMG_9608.jpeg)
 
 Men vänta... det är jättelite garn kvar. Och jag ska sticka massa mer. Fridge. Ett mätande påbörjades. 
-Kommer garnet ens räcka? Överlagsräkningen sa "Absolut inte". Jocke hade redan anmärkt att han 
-tyckte mössan blev väldigt hög. Hade först tänkt "hallå, det är så den ska va" men så började 
+Kommer garnet ens räcka? Överslagsräkningen sa "Absolut inte". Jocke hade redan anmärkt att han 
+tyckte mössan blev väldigt hög. Tänkte först "hallå, det är så den ska va" men så började 
 utforskning om mössan kanske kan få bli lite kortare, det skulle ju ha den tydliga fördelen att
 det skulle bli en mössa till skillnad från ett pannband med uppvikt kant. 
 
@@ -55,7 +55,7 @@ så kan typ sticka 6 varv? nä mindre
 Räknade om lite och kom fram till 6 varv ändå med slutkommentaren `letsgoooo fingers crossed`, 
 Upprivande påbörjades igen (men bara några cm) och tänkte att det blir ju mer stickning for 
 the garnbuck om man river upp några gånger. Dåligt argument om fokus är på slutprodukten 
-men bra om man mest vill sticka för det är trevligt.
+men bra om man mest vill sticka för att det är trevligt.
 
 Minns inte hur det gick sen, rev upp några varv några gånger, varför? Har förträngt? Kom till slutet
 iaf, tog kontrollbild:
@@ -64,11 +64,11 @@ iaf, tog kontrollbild:
 
 Accepterade resultatet och stickade ihop och fäste. Nu var det ju bara mudden kvar... Eftersom 
 mössans längd krympt typ 6 cm så behövdes mudden minskas. Nytt velande påbörjades, men dagar eller 
-veckor(?) senare tog jag tag i och satte upp mudden.
+veckor(?) senare tog jag tag i det och satte upp mudden.
 
 Det blev ärligt talat inte så bra, dels är uppvikningen ca 0,5 cm längre på ena sidan tror jag. 
 Men främst är muddens rätsidan resten av mössans avsida och vice versa och jag
-tog för lite marginal för att täcka avigsidan med vikningen, så den kan glida fram lite. Det skull nog gå att fixa 
+tog för lite marginal för att täcka avigsidan med vikningen, så den kan glida fram lite. Det skulle nog gå att fixa 
 genom att fästa lite till, det ska jag nog göra.
 
 Lärdomen är oavset: SE TILL ATT HA MARGINAL MED GARNMÄNGDEN!
