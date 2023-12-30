@@ -1,10 +1,12 @@
 ---
 title: "Barntröja i lettlopi"
 date: 2023-10-27T21:37:31+01:00
-draft: true
-featured_image: "/images/pexels-photo-267074.jpeg"
+draft: false
+featured_image: "/images/barntroja-lettlopi.jpg"
 show_reading_time: true
 ---
+ 
+![IMG_0578.jpg](IMG_0578.jpg)
 
 Vad finns att säga om denna tröja? 
 
@@ -41,3 +43,8 @@ Den är baserad på Järbos `SLÓÐIR - BARNTRÖJA` men på slutet så ville jag
 Den verkar ha stickats under 2021, kanske avslutats i augusti för det är senaste ändringen i keep. `Afmaeli` blev klar i typ september 2020, så någonstans där. Hittar INGA bilder från projektet. Oktober 2023 har jag fortfarande inte sytt ihop under ärmarna och definitivt inte hanterat de lösa trådarna.
 
 Gullig blev den iaf! Det knöggliga oket löser sig säkert med blockning, måste bara göra klart först.
+
+![IMG_0579.jpg](IMG_0579.jpg)
+![IMG_0581.jpg](IMG_0581.jpg)
+![IMG_0582.jpg](IMG_0582.jpg)
+![IMG_0583.jpg](IMG_0583.jpg)
