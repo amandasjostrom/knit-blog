@@ -6,7 +6,9 @@ featured_image: "/images/muminhalsduk.jpg"
 show_reading_time: true
 ---
 
-Hösten 2022 var jag uppe i Skellefteå, då berättade Ulla att hon fått garn och mönster till en halsduk och frågade om jag ville sticka den halsduken åt henne. "Dubbelstickning med flera färger, det har jag aldrig provat förut, så det klarar jag helt säkert!" hade jag kanske sagt om jag hade vetat att dubbelstickning fanns och att det hette just så. 
+Hösten 2022 var jag uppe i Skellefteå, då berättade Ulla att hon fått garn och mönster till en halsduk och frågade om jag ville sticka den halsduken åt henne. "Dubbelstickning med flera färger, det har jag aldrig provat förut, så det klarar jag helt säkert!" hade jag kanske sagt om jag hade vetat att dubbelstickning fanns och att det hette just så.
+
+Det gröna var Novita Muumitalo/Muminhuset och det vita tror jag var Novita Muumit, det var ett mjukare ull iaf, kanske merino? Detta är mönstret: https://www.ravelry.com/patterns/library/muumipeikko-kaulahuivi-moomintroll-scarf. Det kändes lite wonky att blanda olika garntyper för de hade olika storlek även om samma stickor rekommenderades.  
 
 Jag tog med mig materialet söderöver och började försöka förstå mig på dubbelstickning och det tog några försök.
 
