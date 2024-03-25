@@ -44,6 +44,8 @@ Den verkar ha stickats under 2021, kanske avslutats i augusti för det är senas
 
 Gullig blev den iaf! Det knöggliga oket löser sig säkert med blockning, måste bara göra klart först.
 
+2024-03-25 Fem månader senare! Alla trådar fästa!!! Inte blockat men kommer jag någonsin? ¯\_(ツ)_/¯
+
 ![IMG_0579.jpg](IMG_0579.jpg)
 ![IMG_0581.jpg](IMG_0581.jpg)
 ![IMG_0582.jpg](IMG_0582.jpg)
