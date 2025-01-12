@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/amanda.sjostrom/code/knit-blog",
+	"sourceRoot": "/Users/amanda.sjostrom/Code/knit-blog",
 	"sources": [
 		"ananke/css/main.css"
 	],
