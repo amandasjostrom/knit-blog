@@ -8,7 +8,8 @@ show_reading_time: true
 
 Baby knit!
 
-Fick massor av garn av Ulla som jag inte visste vad jag skulle göra av, så började göra en bebiströja.
+Fick massor av garn av Ulla som jag inte visste vad jag skulle göra av, så började göra en bebiströja. 
+Vet inte när jag började på den men den blev klar 17-18 december 2024.
 
 Stickade först kroppen nerifrån och upp, när jag tänkte det var dags för ärmar så gick jag över till fram och tillbaka, 
 fick fokusera på att hålla spänningen för att de aviga raderna inte skulle bli slappa. Antar att jag maskade av för att
